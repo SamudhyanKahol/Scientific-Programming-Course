@@ -1,1 +1,1 @@
-# Data-Oriented-C-in-Scientific-Programming-
+# Data Oriented C++ in Scientific Programming
